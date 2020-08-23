@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import day1.Day2;
+import day2.Day2;
 
 /**
  * @author Enrique Alonso
